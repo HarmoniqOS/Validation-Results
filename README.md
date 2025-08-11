@@ -55,6 +55,24 @@ Video demonstrations available upon request. Please contact for access.
 For technical discussions, partnership inquiries, or demo access:
 cody.ford@harmoniqos.com
 
+## Legal Notice
+
+All methods, algorithms, and implementations described in these metrics are proprietary and protected under provisional patents filed in 2025. This repository contains validation data only. 
+
+The following are explicitly protected:
+- PASMS compression algorithms and methods
+- Cognitive trait extraction techniques
+- Memory persistence architectures
+- All implementation details
+
+Reverse engineering or attempting to reproduce these results without authorization is prohibited.
+
+### Intellectual Property
+- 6 provisional patents filed (April-July 2025)
+- Trade secrets and proprietary algorithms
+- Copyright 2025 HarmoniqOS / Cody Ford
+
+For licensing inquiries or partnership discussions: cody.ford@harmoniqos.com
 ---
 *Note: This repository contains validation data only. All algorithms, implementation details, 
 and source code are proprietary and protected under provisional patents.*

@@ -33,20 +33,19 @@
 │                    USER INPUT                       │
 └──────────────────────┬──────────────────────────────┘
                        ▼
+                🧠 HARMONIQOS LAYER   
 ┌─────────────────────────────────────────────────────┐
-│              🧠 HARMONIQOS LAYER                    │
+│    ┌──────────┐  ┌──────────┐  ┌──────────┐         │
+│    │  MEMORY  │  │  TRAITS  │  │  AUDIT   │         │
+│    │  91-93%  │  │    108   │  │   100%   │         │
+│    │ compress │  │ profiles │  │ logging  │         │
+│    └──────────┘  └──────────┘  └──────────┘         │
 │                                                     │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐        │
-│  │  MEMORY  │  │  TRAITS  │  │  AUDIT   │        │
-│  │  91-93%  │  │    108    │  │   100%   │        │
-│  │ compress │  │ profiles │  │ logging  │        │
-│  └──────────┘  └──────────┘  └──────────┘        │
-│                                                     │
-│  ┌──────────┐  ┌──────────────┐  ┌──────────┐    │
-│  │SECURITY │  │  COMPLIANCE    │  │PERSONAL- │    │
-│  │   PII    │  │ FRAMEWORKS     │  │ IZATION  │    │
-│  │detection│  │(GDPR,HIPAA,SOX)│  │  engine  │    │
-│  └──────────┘  └──────────────┘  └──────────┘    │
+│  ┌──────────┐  ┌────────────────┐  ┌──────────┐     │
+│  │SECURITY  │  │  COMPLIANCE    │  │ PERSONAL-│     │
+│  │   PII    │  │  FRAMEWORKS    │  │ IZATION  │     │
+│  │detection │  │(GDPR,HIPAA,SOX)│  │  engine  │     │
+│  └──────────┘  └────────────────┘  └──────────┘     │
 └──────────────────────┬──────────────────────────────┘
                        ▼
 ┌─────────────────────────────────────────────────────┐
@@ -64,41 +63,39 @@
 
 ### Same Platform, Every Regulated Industry
 
-┌─────────────────────────────────────────────────────┐
-│ 🏥 **HEALTHCARE**                                   │
-│ HIPAA compliance for clinical documentation AI      │
-│ • PHI auto-detection & redaction                   │
-│ • Patient context preservation                      │
-│ • Full audit trail for every query                 │
-│ **→ 💰 Reduce HIPAA risk exposure by $2M+ per incident** │
-└─────────────────────────────────────────────────────┘
+### 🏥 **HEALTHCARE**
+**HIPAA compliance for clinical documentation AI**
+- PHI auto-detection & redaction
+- Patient context preservation  
+- Full audit trail for every query
+→ **💰 Reduce HIPAA risk exposure by $2M+ per incident**
 
-┌─────────────────────────────────────────────────────┐
-│ 💰 **FINANCE**                                      │
-│ SOX-compliant audit trail for investment AI        │
-│ • Trading decision documentation                    │
-│ • Material information tracking                     │
-│ • Regulatory reporting automation                   │
-│ **→ ⏱️ Cut compliance review cycles from weeks to hours** │
-└─────────────────────────────────────────────────────┘
+---
 
-┌─────────────────────────────────────────────────────┐
-│ ⚖️ **LEGAL**                                        │
-│ Privilege & confidentiality for contract review AI  │
-│ • Attorney-client privilege detection              │
-│ • Confidential information flagging                │
-│ • Matter-specific memory isolation                 │
-│ **→ 🚀 Accelerate contract review by 10x with zero risk** │
-└─────────────────────────────────────────────────────┘
+### 💰 **FINANCE**
+**SOX-compliant audit trail for investment AI**
+- Trading decision documentation
+- Material information tracking
+- Regulatory reporting automation
+→ **⏱️ Cut compliance review cycles from weeks to hours**
 
-┌─────────────────────────────────────────────────────┐
-│ 🏭 **MANUFACTURING**                                │
-│ IP protection for engineering documentation AI      │
-│ • Trade secret identification                      │
-│ • Specification version control                     │
-│ • Supplier data segregation                        │
-│ **→ 📊 Save 20+ engineering hours/week on documentation** │
-└─────────────────────────────────────────────────────┘
+---
+
+### ⚖️ **LEGAL**
+**Privilege & confidentiality for contract review AI**
+- Attorney-client privilege detection
+- Confidential information flagging
+- Matter-specific memory isolation
+→ **🚀 Accelerate contract review by 10x with zero risk**
+
+---
+
+### 🏭 **MANUFACTURING**
+**IP protection for engineering documentation AI**
+- Trade secret identification
+- Specification version control
+- Supplier data segregation
+→ **📊 Save 20+ engineering hours/week on documentation**
 
 ---
 
